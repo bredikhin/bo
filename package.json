@@ -1,0 +1,47 @@
+{
+  "name": "bo",
+  "version": "0.0.1",
+  "description": "Simple CLI bot",
+  "main": "lib/bo.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha test --recursive -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bredikhin/bo.git"
+  },
+  "keywords": [
+    "cli",
+    "bot",
+    "robot"
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "chalk": "^0.4.0",
+    "commander": "^2.2.0",
+    "lodash": "^2.4.1",
+    "npm": "^1.4.13"
+  },
+  "devDependencies": {
+    "mocha": "^1.19.0",
+    "pre-commit": "0.0.7",
+    "should": "^3.3.2",
+    "sinon": "^1.10.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "bo": "./bin/bo.js"
+  },
+  "preferGlobal": true,
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "author": "Ruslan Bredikhin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredikhin/bo/issues"
+  },
+  "homepage": "https://github.com/bredikhin/bo"
+}
