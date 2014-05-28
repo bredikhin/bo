@@ -15,12 +15,13 @@
 
 ## Commands
 
-- slug <string>
+- `slug <string>` (via `sudo npm install -g bo-slug`) Slugifies <string>
 
 ## Dependencies
 
 - [commander](https://www.npmjs.org/package/commander),
 - [async](https://github.com/caolan/async),
+- [npm](https://github.com/npm/npm),
 - [lodash](https://www.npmjs.org/package/lodash).
 
 ## Contributions
