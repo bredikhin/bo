@@ -15,7 +15,7 @@
 
 ## Commands
 
-- `slug <string>` (via `sudo npm install -g bo-slug`) Slugifies <string>
+- `slug <string>` (via `sudo npm install -g bo-slug`) Slugifies the string
 
 ## Dependencies
 
