@@ -30,8 +30,6 @@
 * should be tested;
 * should follow the same coding style.
 
-Keep it simple, minimum bells and whistles, please.
-
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
