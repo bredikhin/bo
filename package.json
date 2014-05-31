@@ -23,9 +23,9 @@
     "npm": "^1.4.13"
   },
   "devDependencies": {
-    "mocha": "^1.19.0",
+    "mocha": "^1.20.0",
     "pre-commit": "0.0.7",
-    "should": "^3.3.2",
+    "should": "^4.0.0",
     "sinon": "^1.10.0"
   },
   "directories": {
