@@ -23,10 +23,10 @@
     "npm": "^1.4.13"
   },
   "devDependencies": {
-    "mocha": "^1.20.0",
+    "mocha": "^1.20.1",
     "pre-commit": "0.0.7",
-    "should": "^4.0.0",
-    "sinon": "^1.10.0"
+    "should": "^4.0.4",
+    "sinon": "^1.10.2"
   },
   "directories": {
     "lib": "lib"
